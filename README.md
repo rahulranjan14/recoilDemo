@@ -37,9 +37,13 @@ To explore this project:
 
 ## Project Comparison
 
-This repository includes a similar project implemented using Redux Toolkit for state management. You can find the Redux Toolkit version [here](https://github.com/rahulranjan14/reduxToolKitDemo).
+This same project with same functionalities are implemented using other state management libraries:
 
-Comparing both implementations can help you understand the differences and benefits of each approach.
+- [Redux Toolkit Version](https://github.com/rahulranjan14/reduxToolkitDemo)
+- [Zustand Version](https://github.com/rahulranjan14/zustandDemo)
+
+Comparing all three implementations can help you understand the differences and benefits of each approach.
+
 
 ## Contributing
 
